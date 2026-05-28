@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/LzrgApp/LzrgApp.csproj" />
+    <Project Path="src/LzrgApp/LzrgApp.Client/LzrgApp.Client.csproj" />
+    <Project Path="src/LzrgApp/LzrgApp/LzrgApp.csproj" />
   </Folder>
 </Solution>
